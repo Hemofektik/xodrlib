@@ -1,5 +1,5 @@
 # xodrlib
-OpenDRIVE (xodr) geometry generation library
+[OpenDRIVE](http://www.opendrive.org/) (xodr) geometry tessellation library
 
 # Third Party
 - [triangle](https://github.com/libigl/triangle) Tesselation 
